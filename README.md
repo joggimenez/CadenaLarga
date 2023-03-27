@@ -39,7 +39,7 @@ Para ejecutar la aplicación desde Visual Studio, es necesario tener descargado 
 ~~~
 2. De no configurarlo, podremos introducir el path desde la aplicación de consola (por default siempre toma la ruta de app.config).
 
-## Como usar la aplicación
+## Cómo usar la aplicación
 
 1. Al ejecutar la aplicación visualizamos el siguiente mensaje: 
   ~~~
