@@ -1,0 +1,5 @@
+C:\Users\jony_\source\repos\CadenaLarga\CadenaLarga\bin\Debug\CadenaLarga.exe.config
+C:\Users\jony_\source\repos\CadenaLarga\CadenaLarga\bin\Debug\CadenaLarga.exe
+C:\Users\jony_\source\repos\CadenaLarga\CadenaLarga\bin\Debug\CadenaLarga.pdb
+C:\Users\jony_\source\repos\CadenaLarga\CadenaLarga\obj\Debug\CadenaLarga.exe
+C:\Users\jony_\source\repos\CadenaLarga\CadenaLarga\obj\Debug\CadenaLarga.pdb
